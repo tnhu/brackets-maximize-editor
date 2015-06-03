@@ -3,7 +3,7 @@
   "title": "Maximize Editor",
   "description": "Maximize active editor. Go to View > Maximize Editor or use shortcut Command+Shift+Enter (Mac)/Control+Shift+Enter (Windows)",
   "homepage": "https://github.com/tnhu/brackets-maximize-editor",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Tan Nhu - https://lnkd.in/tnhu",
   "license": "MIT",
   "engines": {

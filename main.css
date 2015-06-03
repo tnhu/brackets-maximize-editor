@@ -1,0 +1,24 @@
+.maximize-editor #sidebar,
+.maximize-editor #main-toolbar,
+.maximize-editor #editor-holder .horz-resizer,
+.maximize-editor #editor-holder .vert-resizer,
+.maximize-editor #editor-holder .view-pane.active-pane .pane-header {
+  display: none !important;
+}
+
+.maximize-editor #editor-holder .view-pane {
+  display: none;
+}
+
+.maximize-editor .content {
+  left: 0 !important;
+  right: 0 !important;
+}
+
+.maximize-editor #editor-holder .view-pane.active-pane,
+.maximize-editor #editor-holder .view-pane.active-pane .pane-content,
+.maximize-editor #editor-holder .view-pane.active-pane .pane-content .CodeMirror {
+  display: block;
+  width: 100% !important;
+  height: 100% !important;
+}
